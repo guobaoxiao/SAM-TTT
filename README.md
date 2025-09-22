@@ -1,1 +1,50 @@
-# SAM-TTT
+#  SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection
+
+
+## SAM-TTT Overview
+<p align="center">
+    <img src="asset/SAM-TTT.png"/> <br/>
+    <em> 
+    Overview of our SAM-TTT framework: the Reverse SAM Parameter Configuration Module (R-SAMPC) and the T-vision Module
+(TVM). In the parallel phase, R-SAMPC and TVM operate independently, while in the fusion phase, the effectiveness of both modules is
+integrated.
+    </em>
+</p>
+
+## Experiment Results
+
+<p align="center">
+    <img src="asset/Qualitative_analysis.png"/> <br/>
+    <em>
+    Qualitative results.
+    </em>
+</p>
+
+
+<p align="center">
+    <img src="asset/Quantitative_result.png"/> <br/>
+    <em> 
+    Quantitative results.
+    </em>
+</p>
+
+
+
+
+
+## Experiment Setting
+
+The YML file is for reference only. There are redundant environments and not all of them need to be installed.
+
+
+
+## Training
+For the training process, run:
+
+    python My_Train.py
+
+## Testing / Inference
+
+And run:
+
+    python Inference.py

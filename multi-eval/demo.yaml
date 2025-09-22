@@ -1,0 +1,10 @@
+Eval:
+#    gt_root: "/media/tanglv/新加卷/xhk/zsl_cod/SINet-V2-main/COD-TestDataset/COD-TestDataset"
+    gt_root: "../data/TestDataset"
+#    gt_root: "../data/TestDataset_polpy"
+    pred_root: "../data/inference_img/231117_train_IRB_compact_2/"
+#    result_path: "eval_cod"
+    result_path: "../data/result/231117_train_IRB_compact_2/"
+    datasets: ['CAMO','CHAMELEON','COD10K','NC4K']
+#    datasets: ['CVC-300','CVC-ClinicDB','CVC-ColonDB','ETIS-LaribPolypDB','Kvasir']
+    metrics: ['meanDic', 'meanIoU', 'wFm', 'Sm', 'meanEm', 'mae', 'maxEm', 'maxDic', 'maxIoU', 'meanSen', 'maxSen', 'meanSpe', 'maxSpe']
