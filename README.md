@@ -34,8 +34,13 @@ integrated.
 </p>
 
 
+### Weights
+- **SAM-TTT**:
+https://drive.google.com/file/d/1FffLFfBre1PXXU19NO97JfXR5k9Fxs70/view?usp=drive_link
 
-
+### The predicted image
+- **SAM-TTT**: 
+https://drive.google.com/file/d/110032Gh0VSUSfl5d2W2oaHVa9HB1OuVq/view?usp=drive_link
 
 ## Experiment Setting
 
