@@ -1,4 +1,9 @@
-#  SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection
+<div align="center">
+<h2>SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection
+</h2>
+Zhenni Yu, Li Zhao, Guobao Xiao*, Xiaoqin Zhang*
+ACM MM, 2024
+</div>
 
 
 ## SAM-TTT Overview
@@ -50,3 +55,15 @@ For the training process, run:
 And run:
 
     python Inference.py
+
+
+## Citation
+
+If you find this project useful, please consider citing:
+
+```bibtex
+@inproceedings{Zhenni Yu, Li Zhao, Guobao Xiao, Xiaoqin Zhang. 
+SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection [C]. 
+ACM International Conference on Multimedia, 2025}
+}
+```
