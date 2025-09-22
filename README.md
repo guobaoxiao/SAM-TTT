@@ -2,7 +2,7 @@
 <h2>SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection
 </h2>
 Zhenni Yu, Li Zhao, Guobao Xiao*, Xiaoqin Zhang*
-ACM MM, 2024
+ACM MM, 2025
 </div>
 
 
