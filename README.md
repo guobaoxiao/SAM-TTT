@@ -72,7 +72,9 @@ If you find this project useful, please consider citing:
   author={Yu, Zhenni and Zhao, Li and Xiao, Guobao and Zhang, Xiaoqin},
   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
   pages={4030--4038},
-  y
+  year={2025}
+}
 
 ```
+
 
