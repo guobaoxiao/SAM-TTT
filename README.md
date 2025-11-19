@@ -67,9 +67,12 @@ And run:
 If you find this project useful, please consider citing:
 
 ```bibtex
-@inproceedings{Zhenni Yu, Li Zhao, Guobao Xiao, Xiaoqin Zhang. 
-SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection [C]. 
-Proceedings of the 33rd ACM International Conference on Multimedia, 2025, 4030 - 4038}
-}
+@inproceedings{yu2025sam,
+  title={SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection},
+  author={Yu, Zhenni and Zhao, Li and Xiao, Guobao and Zhang, Xiaoqin},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={4030--4038},
+  y
 
 ```
+
